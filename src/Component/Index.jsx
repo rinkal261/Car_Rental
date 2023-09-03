@@ -118,7 +118,7 @@ const index = () => {
         <div className="container_12">
           <div className="grid_12">
             <div className="fa fa-phone"></div>
-            +91 9874563210
+            +91 9924911465
             <span>ORDER NOW!</span>
           </div>
           <div className="clear"></div>

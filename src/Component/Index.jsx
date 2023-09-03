@@ -4,13 +4,12 @@ import { Link } from "react-router-dom";
 const index = () => {
   return (
     <>
-      <div className="logo">
+ {/*  <div className="logo">
         <img
           src={require("../Assets/images/logos.png")}
           height="100%"
-          width="100%" alt=""
-        />
-      </div>
+          width="100%" alt="" />
+      </div> */}
 
       {/* <!-- Carousel --> */}
       <div id="demo" className="carousel slide" data-bs-ride="carousel">
@@ -114,16 +113,16 @@ const index = () => {
           </div>
         </div>
       </div>
-      <div className="c_phone">
+   {/*<div className="c_phone">
         <div className="container_12">
           <div className="grid_12">
             <div className="fa fa-phone"></div>
-            +91 9924911465
+            +91 
             <span>ORDER NOW!</span>
           </div>
           <div className="clear"></div>
         </div>
-      </div>
+      </div> */}
       <div className="container mb-5">
         <div className="row">
           <div className="col-md-4 mt-5">
